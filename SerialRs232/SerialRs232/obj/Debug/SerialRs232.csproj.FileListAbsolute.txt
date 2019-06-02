@@ -1,0 +1,10 @@
+C:\Users\Nate Hindman\source\repos\SerialRs232\SerialRs232\bin\Debug\SerialRs232.exe.config
+C:\Users\Nate Hindman\source\repos\SerialRs232\SerialRs232\bin\Debug\SerialRs232.exe
+C:\Users\Nate Hindman\source\repos\SerialRs232\SerialRs232\bin\Debug\SerialRs232.pdb
+C:\Users\Nate Hindman\source\repos\SerialRs232\SerialRs232\obj\Debug\SerialRs232.csprojAssemblyReference.cache
+C:\Users\Nate Hindman\source\repos\SerialRs232\SerialRs232\obj\Debug\SerialRs232.Form1.resources
+C:\Users\Nate Hindman\source\repos\SerialRs232\SerialRs232\obj\Debug\SerialRs232.Properties.Resources.resources
+C:\Users\Nate Hindman\source\repos\SerialRs232\SerialRs232\obj\Debug\SerialRs232.csproj.GenerateResource.cache
+C:\Users\Nate Hindman\source\repos\SerialRs232\SerialRs232\obj\Debug\SerialRs232.csproj.CoreCompileInputs.cache
+C:\Users\Nate Hindman\source\repos\SerialRs232\SerialRs232\obj\Debug\SerialRs232.exe
+C:\Users\Nate Hindman\source\repos\SerialRs232\SerialRs232\obj\Debug\SerialRs232.pdb
